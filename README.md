@@ -30,4 +30,4 @@ I'm currently active in contributing as a Teacher at SMKN 2 Bangkalan to teach c
 ### Reach me on
 - <a href="https://linkedin.com/in/davisrifandi/">LinkedIn</a>
 - davis.fandi@gmail.com
-- <a href="https://instagram/davisrifandi">Instagram</a>
+- <a href="https://instagram/davisrifandi/">Instagram</a>
