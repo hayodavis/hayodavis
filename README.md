@@ -8,8 +8,8 @@ I'm currently active in contributing as a Teacher at SMKN 2 Bangkalan to teach c
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: davis.fandi@gmail.com
-- ⚡ Fun fact: Will be Father of a daughter
-
+- ⚡ Fun fact: -
+  
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
@@ -30,4 +30,3 @@ I'm currently active in contributing as a Teacher at SMKN 2 Bangkalan to teach c
 ### Reach me on
 - <a href="https://linkedin.com/in/davisrifandi/">LinkedIn</a>
 - davis.fandi@gmail.com
-- <a href="https://instagram/davisrifandi/">Instagram</a>
